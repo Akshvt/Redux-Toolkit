@@ -8,4 +8,4 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
-Customised Reudx Documentation: https://app.eraser.io/workspace/w79fOSD6sSpSFRMVgUKw
+Customised Redux Toolkit Documentation: https://app.eraser.io/workspace/w79fOSD6sSpSFRMVgUKw
